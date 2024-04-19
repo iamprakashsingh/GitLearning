@@ -12,3 +12,17 @@ now to save this file permanently in repository type:git commit -m "chapter1.txt
 
 to see the contents of file type : type "file name"
 
+to see the date and time when changes were made in repository type:git log
+
+to delete a file from repository type: del "file name"
+
+//connecting githud with project
+
+create a new respository in github take the url and type :git remote add origin "url"
+
+to see all the urls attack to the folder type : git remote -v
+
+
+//here url is origin and the branch to which we are pushing is master
+now to see if your local projects added type:git push origin master
+
