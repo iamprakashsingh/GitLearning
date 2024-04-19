@@ -1,0 +1,8 @@
+To create a folder(directory) type:mkdir "Folder name"
+To create a file type: echo. > "file name"
+To initialize git type:git init
+To see internal files as well as hidden files in directory type:dir /a
+To see status of git type(basically this is used to see the untracked files in repository,when you will type this you will get to know the untracked files in directory):git status
+
+so after getting to knwo about untracked files you can type:gid add "file name"or git .add(this will staged all the untracked files) to have a track of those files
+
