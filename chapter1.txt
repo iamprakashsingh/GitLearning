@@ -6,3 +6,9 @@ To see status of git type(basically this is used to see the untracked files in r
 
 so after getting to knwo about untracked files you can type:gid add "file name"or git .add(this will staged all the untracked files) to have a track of those files
 
+if u will type "git status again now the previously untracked file color has been changed to green means now it is staged"
+
+now to save this file permanently in repository type:git commit -m "chapter1.txt file added" (-m) is for message and we have wrote message after it
+
+to see the contents of file type : type "file name"
+
